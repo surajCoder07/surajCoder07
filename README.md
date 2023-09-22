@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajcoder07&label=Profile%20views&color=0e75b6&style=flat" alt="surajcoder07" /> </p>
 
 - 🔭 I’m currently working on [Youtube-Clone](https://youtube-suraj-singh-dangi.netlify.app/)
+- 🙋‍♂️ my Portfolio [Suraj Singh](https://suraj-singh-dangi-portfolio.netlify.app/) 
 
 - 🌱 I’m currently learning **reactjs**
 
